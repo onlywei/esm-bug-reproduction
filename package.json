@@ -1,0 +1,22 @@
+{
+  "name": "esm-bug-reproduction",
+  "version": "0.0.0",
+  "description": "Reproducible bugs for esm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlywei/esm-bug-reproduction.git"
+  },
+  "author": "Wei Wang <wei@fastmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlywei/esm-bug-reproduction/issues"
+  },
+  "homepage": "https://github.com/onlywei/esm-bug-reproduction#readme",
+  "dependencies": {
+    "esm": "3.0.49"
+  }
+}
